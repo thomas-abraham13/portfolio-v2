@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Mid-weight QA Analyst",
+            "subtitle": "FX Digital",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** new product.",
+                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+            ],
+            "dateText": "01/2024 – Present"
+        },
+        {
+            "title": "Junior QA Analyst",
+            "subtitle": "FX Digital",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** new product.",
+                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+            ],
+            "dateText": "10/2022 – 01/2024"
+        },
+        {
+            "title": "Associate Analyst (QA)",
+            "subtitle": "Deloitte USI",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on abc."
+            ],
+            "dateText": "08/2021 – 08/2022"
+        }
+    ]
+}

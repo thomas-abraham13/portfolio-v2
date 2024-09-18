@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/thomasabraham6813/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/thomas-abraham13"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:test@test.com"
+        }
+    ]
+}
