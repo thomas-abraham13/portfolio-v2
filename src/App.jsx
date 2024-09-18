@@ -8,8 +8,11 @@ import AppContext from './AppContext';
 import MainApp from './MainApp';
 import GlobalStyles from './theme/GlobalStyles';
 import { lightTheme, darkTheme } from './theme/themes';
+import ReactGA from 'react-ga4';
+
 
 function App() {
+  ReactGA.initialize('G-1GRG57RS6J');
   window.matchMedia = null;
   const darkMode = useDarkMode(true);
 
