@@ -67,6 +67,10 @@
                 {
                     "icon": "images/skills/soapui.png",
                     "title": "Soap UI"
+                },
+                {
+                    "icon": "images/skills/jira.png",
+                    "title": "Jira"
                 }
             ]
     }
